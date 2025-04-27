@@ -7,7 +7,7 @@
 ## News
 - :t-rex: July 12th, 2024: The Camera-Ready version of our challenge report is avaliable at this [LINK](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Ren_The_Ninth_NTIRE_2024_Efficient_Super-Resolution_Challenge_Report_CVPRW_2024_paper.pdf)!
 - :t-rex: June 25th, 2024: All the solution method and the corresponding checkpoints are uploaded.
-- :t-rex: June 25th, 2024: The report paper can be found via:[https://arxiv.org/abs/2404.10343](https://arxiv.org/abs/2404.10343). Please note that we have correct the the order of "#Params" and "FLOPs" in Table 1 of the report paper. We apiligize for the mistake and thanks for pointing it out from Hongyuan Wang (why5200@stu.xju.edu.cn).
+- :t-rex: June 25th, 2024: The report paper can be found via:[https://arxiv.org/abs/2404.10343](https://arxiv.org/abs/2404.10343). Please note that we have correct the the order of "#Params" and "FLOPs" in Table 1 of the report paper. We apologize for the mistake and thanks for pointing it out from Hongyuan Wang (why5200@stu.xju.edu.cn).
 
 
 
